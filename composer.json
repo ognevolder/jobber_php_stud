@@ -1,0 +1,16 @@
+{
+  "name": "ognevolder/jobber",
+  "description": "Job listings application",
+  "authors": [
+    {
+      "name": "Yurii Timoshenkov",
+      "email": "tim.yura95@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Framework\\": "Framework/",
+      "App\\": "App/"
+    }
+  }
+}
